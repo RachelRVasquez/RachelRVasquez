@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
-<h3 align="center">A Senior full-stack WordPress developer & accessibility champion</h3>
+<h3 align="center">A senior full-stack WordPress developer & accessibility champion</h3>
 
 - 🔭 I’m currently working on [Little A11y Things](https://github.com/RachelRVasquez/little-a11y-things)
 
-- 🌱 Skills I'm currently strengthening **Typescript**
+- 🌱 Skills I'm currently strengthening: **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://rrvasquez.com/projects/](https://rrvasquez.com/projects/)
+- 👨‍💻 You can check out my portfolio at [https://rrvasquez.com/projects/](https://rrvasquez.com/projects/)
 
-- 📝 I regularly write articles on [https://rrvasquez.com/blog/](https://rrvasquez.com/blog/)
+- 📝 I regularly write articles on [my RRVasquez blog](https://rrvasquez.com/blog/)
 
 - 💬 Ask me about **WordPress, Accessibility or Tech Documentation!**
 
-- 📫 How to reach me **rachel@rrvasquez.com**
+- 📫 You can reach me [via email](mailto:rachel@rrvasquez.com)
 
-- 📄 About my work experience [https://www.linkedin.com/in/rachelrvasquez/](https://www.linkedin.com/in/rachelrvasquez/)
+- 📄 My work experience: [https://www.linkedin.com/in/rachelrvasquez/](https://www.linkedin.com/in/rachelrvasquez/)
 
 - ⚡ Fun fact: **I've always been the office's resident baker. Seriously. Ask my old co-workers about my banana bread.**
 
