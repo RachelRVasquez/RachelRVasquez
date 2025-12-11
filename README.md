@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **WordPress, Accessibility or Tech Documentation!**
 
-- 📫 You can reach me [via email](mailto:rachel@rrvasquez.com)
+- 📫 You can reach me [via email](mailto:rachel@rrvasquez.com). Linkedin DMs will have faster response times.
 
 - 📄 My work experience: [https://www.linkedin.com/in/rachelrvasquez/](https://www.linkedin.com/in/rachelrvasquez/)
 
