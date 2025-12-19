@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
-<h3 align="center">A senior full-stack WordPress developer & accessibility champion</h3>
+<h3 align="center">Senior WordPress Engineer | Full-Stack Developer</h3>
+
+I have 14 years of robust web development experience, transitioning from front-end to full-stack roles. My expertise includes building custom themes, third-party API integrations, complex forms and validation, and creating internal tools.
 
 - 🔭 I’m currently working on [Little A11y Things](https://github.com/RachelRVasquez/little-a11y-things)
 
-- 🌱 Skills I'm currently strengthening: **Typescript**
+- 🌱 Learning Journey: I'm diving deeper into TypeScript and exploring new frameworks, aiming to make waves in sectors like education, finance, government, and health!
 
 - 👨‍💻 You can check out my portfolio at [https://rrvasquez.com/projects/](https://rrvasquez.com/projects/)
 
@@ -19,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rachelrvasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rachelrvasquez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rachelrvasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachelrvasquez" height="30" width="40" /></a>
 <a href="https://twitter.com/rachelrvasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachelrvasquez" height="30" width="40" /></a>
 </p>
