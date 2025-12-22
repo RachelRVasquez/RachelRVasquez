@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
-<h3 align="center">Senior WordPress Engineer | Full-Stack Developer</h3>
+<h2 align="center">Senior Full-Stack Developer | Enterprise Web Applications & API Integration</h2>
+<h3 align="center">(React • Redux • PHP • RESTful APIs • MySQL • A11y)</h3>
 
-I have 14 years of robust web development experience, transitioning from front-end to full-stack roles. My expertise includes building custom themes, third-party API integrations, complex forms and validation, and creating internal tools.
+
+I have 14 years of robust web development experience across agency and enterprise environments. My expertise is in React, PHP, API integration, AWS, and regulatory compliance.
+
 
 - 🔭 I’m currently working on [Little A11y Things](https://github.com/RachelRVasquez/little-a11y-things)
 
@@ -11,7 +14,7 @@ I have 14 years of robust web development experience, transitioning from front-e
 
 - 📝 I regularly write articles on [my RRVasquez blog](https://rrvasquez.com/blog/)
 
-- 💬 Ask me about **WordPress, Accessibility or Tech Documentation!**
+- 💬 Ask me about **WordPress, RESTful APIs, Accessibility or Tech Documentation!**
 
 - 📫 You can reach me [via email](mailto:rachel@rrvasquez.com). Linkedin DMs will have faster response times.
 
