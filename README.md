@@ -3,7 +3,7 @@
 <h3 align="center">(React • Redux • PHP • RESTful APIs • MySQL • A11y)</h3>
 
 
-I have 14 years of robust web development experience across agency and enterprise environments. My expertise is in React, PHP, API integration, AWS, and regulatory compliance.
+I have 15+ years of robust web development experience across agency and enterprise environments. My expertise is in React, PHP, API integration, AWS, and regulatory compliance.
 
 
 - 🔭 I’m currently working on [Little A11y Things](https://github.com/RachelRVasquez/little-a11y-things), refreshing my Drupal experience, and tinkering with an additional Typescript/Dexie project.
