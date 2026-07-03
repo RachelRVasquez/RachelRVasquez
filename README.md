@@ -14,7 +14,7 @@ I have 15+ years of robust web development experience across agency and enterpri
 
 - 📝 I regularly write articles on [my RRVasquez blog](https://rrvasquez.com/blog/)
 
-- 💬 Ask me about **WordPress, RESTful APIs, Accessibility or Tech Documentation!**
+- 💬 Ask me about **CMS, RESTful APIs, Accessibility or Tech Documentation!**
 
 - 📫 You can reach me [via email](mailto:rachel@rrvasquez.com). Linkedin DMs will have faster response times.
 
