@@ -6,7 +6,7 @@
 I have 15+ years of robust web development experience across agency and enterprise environments. My expertise is in React, PHP, API integration, AWS, and regulatory compliance.
 
 
-- 🔭 I’m currently working on [Little A11y Things](https://github.com/RachelRVasquez/little-a11y-things), refreshing my Drupal experience, and tinkering with an additional Typescript/Dexie project.
+- 🔭 I’m currently working on [Little A11y Things (React/Typescript)](https://github.com/RachelRVasquez/little-a11y-things), [Korok Finance (Drupal)](https://github.com/RachelRVasquez/korok-finance), and tinkering with an additional project using Typscript, Dexie.js and Tiptap editor.
 
 - 🌱 Learning Journey: I'm diving deeper into TypeScript and exploring new frameworks, aiming to make waves in sectors like education, finance, government, and health!
 
