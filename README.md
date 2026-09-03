@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
 <h2 align="center">Senior Full-Stack Developer | Enterprise Web Applications & API Integration</h2>
-<h3 align="center">(React • Redux • PHP • RESTful APIs • MySQL • A11y)</h3>
+<h3 align="center">(React/Typescript • Redux/Zustand • PHP • Sass • RESTful APIs • MySQL • A11y)</h3>
 
 
-I have 15+ years of robust web development experience across agency and enterprise environments. My expertise is in React, PHP, API integration, AWS, and regulatory compliance.
+I have 15+ years of robust web development experience across agency and enterprise environments. My expertise is in React/Typescript, Sass, PHP, API integration, AWS, and regulatory compliance.
 
 
 - 🔭 I’m currently working on [Little A11y Things (React/Typescript)](https://github.com/RachelRVasquez/little-a11y-things), [Korok Finance (Drupal)](https://github.com/RachelRVasquez/korok-finance), and tinkering with an additional project using Typscript, Dexie.js and Tiptap editor.
